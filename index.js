@@ -14,8 +14,8 @@ document.querySelector(".img2").setAttribute("src",randomImage2);
 
 
 if(random1>random2)
-document.querySelector("h1").innerHTML="🚩Player 1 Wins";
+document.querySelector("h1").innerHTML="🚩Player 1 Wins! Woohoooo!!";
 else if(random1==random2)
 document.querySelector("h1").innerHTML="Draw";
 else
-document.querySelector("h1").innerHTML="Player 2 Wins🚩";
+document.querySelector("h1").innerHTML="Player 2 Wins🚩! You slay Player 2!!";
